@@ -2,11 +2,10 @@
 
 <img src="proof.jpg">
 
-install metasploit automatically it's very easy today a'd work without any problem 
+install metasploit automatically it's very easy today and work without any problem 
 
 
-git clone https://github.com/hydra20/meta.git
-
+git clone https://github.com/hydra20/meta
 cd meat
 
 chmod +x * 
